@@ -29,6 +29,7 @@ Com experiência em operações logísticas (DHL Supply Chain), utilizo tecnolog
 ## 🛠️ Habilidades Técnicas
 
 - **Linguagens & Frameworks:** Java (Spring Boot, Spring Security, JPA/Hibernate), Python (FastAPI, SQLAlchemy)
+- **Mensageria & Filas:** RabbitMQ
 - **Bancos de Dados:** PostgreSQL, MySQL, SQL Server
 - **DevOps & Ferramentas:** Docker, Git, Maven, Linux, Postman, REST APIs
 
