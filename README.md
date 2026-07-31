@@ -11,7 +11,7 @@ Com experiência em operações logísticas (DHL Supply Chain), utilizo tecnolog
 ### 🚛 [Titan API](https://github.com/MarcusVHO/Titan-API)
 **Sistema de Automação e Auditoria de Conferência Logística**
 - **Desafio:** Divergências operacionais e gargalos de tempo na conferência manual de Ordens de Produção SAP em logística de alto volume.
-- **Solução:** API REST desenvolvida para parsing automatizado de Ordens SAP em PDF, validação em tempo real de pesos/lotes e controle de acesso baseado em funções (RBAC).
+- **Solução:** API REST desenvolvida para parsing automatizado de Ordens SAP em PDF, validação em tempo real de pesos/lotes.
 - **Tech Stack:** Python, FastAPI, PostgreSQL, Docker, SQLAlchemy, JWT.
 
 ### 🍔 [SaborFy](https://github.com/MarcusVHO/SaborFy)
