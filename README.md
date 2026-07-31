@@ -16,7 +16,7 @@ Com experiência em operações logísticas (DHL Supply Chain), utilizo tecnolog
 
 ### 🍔 [SaborFy](https://github.com/MarcusVHO/SaborFy)
 **API de Gerenciamento para Restaurantes**
-- **Solução:** Backend RESTful completo para gestão de cardápio, pedidos e autenticação segura de usuários.
+- **Solução:** Backend REST completo para gestão de cardápio, pedidos e autenticação segura de usuários.
 - **Tech Stack:** Java, Spring Boot, Spring Security, JWT, PostgreSQL, Docker.
 
 ### 📅 [Chronos](https://github.com/MarcusVHO/Chronos)
